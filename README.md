@@ -9,5 +9,5 @@
   <li><b>Design</b> : Figma </li>
   <li><b>DB</b> : MongoDB </li>
   <li><b>Server</b> : Ubuntu </li>
-  <li><b>Api & Lib</b> : fastapi, gemini API, Whisper</li>
+  <li><b>Api & Lib</b> : FastAPI, gemini API, Whisper</li>
 </ul>
